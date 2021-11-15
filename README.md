@@ -7,10 +7,8 @@ You want python to be installed in your system
 Before using this application you need to run following commands in your Terminal
 
 For Windows:
-
-pip install gTTS
-
-pip install urllib3
+1)pip install gTTS
+2)pip install urllib3
 
 
 
