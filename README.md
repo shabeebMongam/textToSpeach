@@ -9,6 +9,7 @@ Before using this application you need to run following commands in your Termina
 For Windows:
 
 pip install gTTS
+
 pip install urllib3
 
 
