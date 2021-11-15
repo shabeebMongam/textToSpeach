@@ -4,10 +4,13 @@ This is a simple application that helps you to convert text to speach
 
 
 You want python to be installed in your system
+
 Before using this application you need to run following commands in your Terminal
 
 For Windows:
+
 1)pip install gTTS
+
 2)pip install urllib3
 
 
